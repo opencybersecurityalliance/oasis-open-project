@@ -1,5 +1,8 @@
-STIX Shifter and the OpenDXL Standard Ontology are governed by the Apache 2.0 license. 
-Other work undertaken by the project may be covered by other licenses that will be specified in their repositories. 
+This Open Project operates under the licenses below plus the additional Non-Assertion Covenant for Standards Track Project Specifications. Other work undertaken by the project may be covered by other licenses that will be specified in their repositories.
+
+OASIS invites anyone who knows of any IPR claims to disclose them if they may be essential to the implementation of any of the work of this project so that notice of them may be posted.
+
+For information on any statements regarding IPR claims related to the work of this project, see the [OASIS OP IPR Statements page](https://github.com/oasis-open-projects/documentation/blob/master/administration/IPR_STATEMENTS.md#open-services-for-lifecycle-collaboration-oslc-open-project).
 
  Apache License
                            Version 2.0, January 2004
