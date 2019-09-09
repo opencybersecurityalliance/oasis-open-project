@@ -48,25 +48,15 @@ The members of the OCA Project Governing Board are:
 * Darren Thomas (McAfee) - Darren_Thomas@McAfee.com
 * Mille Gandelsman (Indegy) - mille@indegy.com
 
-### Technical Steering Committee (TSC)
-
-The TSC is responsible for the day-to-day technical activities and direction of the project, 
-such as reviewing pull requests, organizing releases, overseeing work of maintainers 
-and community leaders.
-
-The members of the OCA Technical Steering Committee are:
-
-* Chris Smith (McAfee) - Christopher\_Smith@McAfee.com
-* Don Hanson (McAfee) - Don_Hanson@McAfee.com
-* Thierry Supplisson (IBM) - thierry.supplisson@ie.ibm.com
-* Ian Murphy (IBM) - Ian.Murphy@ibm.com
-
 ### Other Contributors 
 
 The work of this Open Project is open to all interested parties, whether OASIS members or 
 not. Others who have indicated their interest in participating in the OCA project are: 
 
+* Chris Smith (McAfee) - Christopher\_Smith@McAfee.com
+* Don Hanson (McAfee) - Don_Hanson@McAfee.com
+* Thierry Supplisson (IBM) - thierry.supplisson@ie.ibm.com
+* Ian Murphy (IBM) - Ian.Murphy@ibm.com
 * Kent Landfield (McAfee) - kent_landfield@mcafee.com
 * Bill Woodcock (Packet Clearing House) - woody@pch.net
 * John Todd (Quad9) - jtodd@quad9.net
-
