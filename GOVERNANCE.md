@@ -11,7 +11,7 @@ This document defines the project's community governance per
 self-governing open source community committed to developing an open cybersecurity ecosystem. 
 
 The community is governed by this document and in accordance with 
-[OASIS Open Project Rules](../board-docs/open-projects-rules.md) with the goal of defining 
+[OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process) with the goal of defining 
 how community can work together to achieve this goal.
 
 ## Code Repositories
