@@ -1,6 +1,6 @@
 <img src="graphics/oca-logo.png" width="50">
 
-# OSLC Open Project Governance
+# OCA Open Project Governance
 
 This document defines the project's community governance per 
 [OASIS Open Projects Governance Policy](https://github.com/oasis-open-projects/documentation/blob/master/policy/project-governance.md).
