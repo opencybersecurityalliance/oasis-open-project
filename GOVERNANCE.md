@@ -40,7 +40,7 @@ It oversees activities such as setting strategic direction, planning events, or 
 votes on official business of the project such as document approvals, and provides overall 
 leadership to the project. 
 
-For more information on the role of the PGB, see the description (here)[https://github.com/oasis-open-projects/documentation/blob/master/guides/getting-started-guide.md#identifying-roles].
+For more information on the role of the PGB, see the description [here](https://github.com/oasis-open-projects/documentation/blob/master/guides/getting-started-guide.md#identifying-roles).
 
 The members of the OCA Project Governing Board are: 
 
