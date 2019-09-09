@@ -8,7 +8,9 @@ ecosystem, where products from all vendors and software publishers can freely ex
 information, insights, analytics, and orchestrated response, via commonly developed code 
 and tooling, using mutually agreed upon technologies, data standards, and procedures.
 
-For more information on the OCA, see the project's website at https://opencybersecurityalliance.org.
+For more information on the OCA, see the project's website at https://opencybersecurityalliance.org. 
+
+General questions about OASIS Open Projects may be directed to OASIS staff at op-admin@lists.oasis-open-projects.org
 
 # Contributing
 
