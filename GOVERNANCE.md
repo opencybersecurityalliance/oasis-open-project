@@ -47,6 +47,7 @@ The members of the OCA Project Governing Board are:
 * Jason Keirstead (IBM) - Jason.Keirstead@ca.ibm.com
 * Darren Thomas (McAfee) - Darren_Thomas@McAfee.com
 * Mille Gandelsman (Indegy) - mille@indegy.com
+* Jon Warren (ThreatQuotient) - Jon.Warren@threatq.com 
 
 ### Other Contributors 
 
