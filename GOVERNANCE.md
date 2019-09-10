@@ -48,6 +48,7 @@ The members of the OCA Project Governing Board are:
 * Darren Thomas (McAfee) - Darren_Thomas@McAfee.com
 * Mille Gandelsman (Indegy) - mille@indegy.com
 * Jon Warren (ThreatQuotient) - Jon.Warren@threatq.com 
+* Craig “CJ” Brunet (Advanced Cyber Security Corp) - cjb@advancedcybersecurity.com 
 
 ### Other Contributors 
 
