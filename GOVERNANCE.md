@@ -49,6 +49,7 @@ The members of the OCA Project Governing Board are:
 * Mille Gandelsman (Indegy) - mille@indegy.com
 * Jon Warren (ThreatQuotient) - Jon.Warren@threatq.com 
 * Craig “CJ” Brunet (Advanced Cyber Security Corp) - cjb@advancedcybersecurity.com 
+* Adam Bosnian (CyberArk) - Adam.Bosnian@cyberark.com
 
 ### Other Contributors 
 
