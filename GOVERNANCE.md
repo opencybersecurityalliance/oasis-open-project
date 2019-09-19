@@ -50,6 +50,8 @@ The members of the OCA Project Governing Board are:
 * Jon Warren (ThreatQuotient) - Jon.Warren@threatq.com 
 * Craig “CJ” Brunet (Advanced Cyber Security Corp) - cjb@advancedcybersecurity.com 
 * Adam Bosnian (CyberArk) - Adam.Bosnian@cyberark.com
+* Carolyn Raab (Corsa Security) - carolyn.raab@corsa.com
+
 
 ### Other Contributors 
 
