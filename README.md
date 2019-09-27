@@ -1,4 +1,4 @@
-<img src="graphics/oca-logo.png" width="50">
+<img src="/OCA-1.png" width="200">
 
 # Open Cybersecurity Alliance (OCA) Open Project
 
