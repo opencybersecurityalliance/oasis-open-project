@@ -61,16 +61,19 @@ The following organizations sponsor the Open Cybersecurity Alliance.
 
 * Advanced Cyber Security Corp - https://www.advancedcybersecurity.com/ 
 * Corsa Security - https://www.corsa.com/ 
+* CrowdStrike - https://www.crowdstrike.com/ 
 * CyberArk - https://www.cyberark.com/ 
 * Cybereason - https://www.cybereason.com/
 * DFLabs - https://www.dflabs.com/ 
 * EclecticIQ - https://www.eclecticiq.com/ 
+* Electric Power Research Institute - https://www.epri.com/
 * Forinet - https://www.fortinet.com/ 
-* IBM - www.ibm.com/ 
+* IBM Security - www.ibm.com/ 
 * Indegy - https://www.indegy.com/ 
 * McAfee - www.mcafee.com/ 
 * New Context - https://www.newcontext.com/ 
 * ReversignLabs - https://www.reversinglabs.com/ 
+* sFractal Consulting LLC - https://www.sfractal.com/ 
 * SafeBreach  - https://safebreach.com/ 
 * Syncurity - https://www.syncurity.net/ 
 * ThreatQuotient - https://www.threatq.com/ 
