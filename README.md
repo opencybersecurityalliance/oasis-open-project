@@ -1,6 +1,6 @@
 <img src="/OCA-1.png" width="200">
 
-# Open Cybersecurity Alliance (OCA) Open Project
+# Open Cybersecurity Alliance (OCA)
 
 The Open Cybersecurity Alliance (OCA) Open Project is an 
 [OASIS Open Project](https://oasis-open-projects.org/) fostering an open cybersecurity 
