@@ -60,6 +60,7 @@ The members of the Project Governing Board will be listed on the [OCA project we
 The following organizations sponsor the Open Cybersecurity Alliance. 
 
 * Advanced Cyber Security Corp - https://www.advancedcybersecurity.com/ 
+* Center for Internet Security - https://www.cisecurity.org/
 * Corsa Security - https://www.corsa.com/ 
 * CrowdStrike - https://www.crowdstrike.com/ 
 * CyberArk - https://www.cyberark.com/ 
