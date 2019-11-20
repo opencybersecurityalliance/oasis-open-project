@@ -71,7 +71,6 @@ The following organizations sponsor the Open Cybersecurity Alliance.
 * EclecticIQ - https://www.eclecticiq.com/ 
 * Electric Power Research Institute - https://www.epri.com/
 * Forinet - https://www.fortinet.com/ 
-* Gigamon - https://www.gigamon.com/
 * IBM Security - www.ibm.com/ 
 * Indegy - https://www.indegy.com/ 
 * McAfee - www.mcafee.com/ 
