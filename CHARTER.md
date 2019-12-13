@@ -75,6 +75,7 @@ The following organizations sponsor the Open Cybersecurity Alliance.
 * Indegy - https://www.indegy.com/ 
 * McAfee - www.mcafee.com/ 
 * New Context - https://www.newcontext.com/ 
+* Recorded Future - https://www.recordedfuture.com/
 * ReversignLabs - https://www.reversinglabs.com/ 
 * SafeBreach  - https://safebreach.com/ 
 * sFractal Consulting LLC - https://www.sfractal.com/ 
