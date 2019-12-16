@@ -54,7 +54,7 @@ https://github.com/IBM/stix-shifter
 
 ### 8.1 Project Governing Board  
 	
-The members of the Project Governing Board will be listed on the [OCA project website](https://opencybersecurityalliance.org).  
+The members of the Project Governing Board are listed on the [OCA project website](https://opencybersecurityalliance.org/about/).  
 
 ### 8.2 Sponsors
 The following organizations sponsor the Open Cybersecurity Alliance. 
