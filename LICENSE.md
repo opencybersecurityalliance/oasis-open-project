@@ -1,4 +1,4 @@
-This Open Project operates under the licenses below plus the additional Non-Assertion Covenant for Standards Track Project Specifications. Other work undertaken by the project may be covered by other licenses that will be specified in their repositories.
+This Open Project operates under the licenses below plus the [Specification NonAssertion Covenant](https://www.oasis-open.org/policies-guidelines/open-projects-process#repository-specification-licenses-special-covenant). Other work undertaken by the project may be covered by other licenses that will be specified in their repositories.
 
 OASIS invites anyone who knows of any IPR claims to disclose them if they may be essential to the implementation of any of the work of this project so that notice of them may be posted.
 
