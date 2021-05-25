@@ -7,7 +7,7 @@ The Project Governing Board sets overall strategic direction of the Open Cyberse
 PGB members include representatives of [OCA sponsor organizations](https://github.com/opencybersecurityalliance/oasis-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who serve on the Technical Steering Committee: 
   
 - Sonu Shankar, [Arctic Wolf](https://arcticwolf.com/)
-- Adam Montville, [Center for Internet Security}(https://www.cisecurity.org/)
+- Adam Montville, [Center for Internet Security](https://www.cisecurity.org/)
 - Sam Curry, [Cybereason](http://www.cybereason.com/)
 - Ben Waters, [Cydarm](https://www.cydarm.com/)
 - Avkash Kathiriya, [Cyware](https://cyware.com/)
