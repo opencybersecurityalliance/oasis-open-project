@@ -6,7 +6,7 @@ The Project Governing Board (PGB) sets overall strategic direction for the OCA a
 
 PGB members include representatives of [OCA sponsor organizations](https://github.com/opencybersecurityalliance/oasis-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who represent the Technical Steering Committee (TSC): 
   
-- Sonu Shankar, [Arctic Wolf](https://arcticwolf.com/)
+<!-- - Sonu Shankar, [Arctic Wolf](https://arcticwolf.com/) -->
 - Adam Montville, [Center for Internet Security](https://www.cisecurity.org/)
 - Sam Curry, [Cybereason](http://www.cybereason.com/)
 - Ben Waters, [Cydarm](https://www.cydarm.com/)
