@@ -1,10 +1,10 @@
 <img src="/OCA-1.png" width="200">
 
-# Open Cybersecurity Alliance (OCA) Project Governing Board (PGB)
+# Open Cybersecurity Alliance (OCA) Project Governing Board
 
-The Project Governing Board sets overall strategic direction of the Open Cybersecurity Alliance project and formally approves released work products. 
+The Project Governing Board (PGB) sets overall strategic direction for the OCA and formally approves released work products. 
 
-PGB members include representatives of [OCA sponsor organizations](https://github.com/opencybersecurityalliance/oasis-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who serve on the Technical Steering Committee: 
+PGB members include representatives of [OCA sponsor organizations](https://github.com/opencybersecurityalliance/oasis-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who represent the Technical Steering Committee (TSC): 
   
 - Sonu Shankar, [Arctic Wolf](https://arcticwolf.com/)
 - Adam Montville, [Center for Internet Security](https://www.cisecurity.org/)
@@ -23,5 +23,5 @@ PGB members include representatives of [OCA sponsor organizations](https://githu
 - Stephen Wood, [Tripwire](https://www.tripwire.com/)
 - Chris Murphy, [TruSTAR](https://www.trustar.co/)
 
-If you are interested in being part of the [open-project-name] PGB, contact communications@oasis-open.org.
+If you are interested in being part of the OCA PGB or the TSC, contact communications@oasis-open.org.
 
