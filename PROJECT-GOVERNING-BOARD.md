@@ -9,7 +9,7 @@ PGB members include representatives of [OCA sponsor organizations](https://githu
 <!-- - Sonu Shankar, [Arctic Wolf](https://arcticwolf.com/) -->
 - Adam Montville, [Center for Internet Security](https://www.cisecurity.org/)
 - Sam Curry, [Cybereason](http://www.cybereason.com/)
-- Ben Waters, [Cydarm](https://www.cydarm.com/)
+- Vaughan Shanks, [Cydarm](https://www.cydarm.com/)
 - Avkash Kathiriya, [Cyware](https://cyware.com/)
 - Ciaran Bradley, [EclecticIQ](https://www.eclecticiq.com/)
 - Renuka Nadkarni, [F5](https://www.f5.com/)
