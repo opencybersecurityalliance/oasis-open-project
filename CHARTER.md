@@ -57,31 +57,7 @@ https://github.com/IBM/stix-shifter
 The members of the Project Governing Board are listed on the [OCA project website](https://opencybersecurityalliance.org/governance/).  
 
 ### 8.2 Sponsors
-The following organizations sponsor the Open Cybersecurity Alliance. 
-
-* Advanced Cyber Security Corp - https://www.advancedcybersecurity.com/ 
-* Center for Internet Security - https://www.cisecurity.org/
-* Corsa Security - https://www.corsa.com/ 
-* CrowdStrike - https://www.crowdstrike.com/ 
-* CyberArk - https://www.cyberark.com/ 
-* CyberNB - www.cybernb.ca
-* Cybereason - https://www.cybereason.com/
-* Cydarm - https://cydarm.com/
-* DFLabs - https://www.dflabs.com/ 
-* EclecticIQ - https://www.eclecticiq.com/ 
-* Electric Power Research Institute - https://www.epri.com/
-* Forinet - https://www.fortinet.com/ 
-* IBM Security - www.ibm.com/ 
-* Indegy - https://www.indegy.com/ 
-* McAfee - www.mcafee.com/ 
-* New Context - https://www.newcontext.com/ 
-* Recorded Future - https://www.recordedfuture.com/
-* ReversingLabs - https://www.reversinglabs.com/ 
-* SafeBreach  - https://safebreach.com/ 
-* sFractal Consulting LLC - https://www.sfractal.com/ 
-* Syncurity - https://www.syncurity.net/ 
-* ThreatQuotient - https://www.threatq.com/ 
-* Tufin - www.tufin.com/ 
+The list of organisations that sponsor the OCA can be found [here](/SPONSORS.md).
 
 ### 8.3 Other Contributors (Optional) 
 The following participants have indicated their intention to be active contributors to the project: 
