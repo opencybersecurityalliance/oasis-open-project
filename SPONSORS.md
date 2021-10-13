@@ -11,7 +11,6 @@ OASIS Open and the OCA community thank the following organizations who generousl
 * [Cydarm](https://cydarm.com/) &bigstar;
 * [Cyware](https://cyware.com/) &bigstar;
 * [EclecticIQ](https://www.eclecticiq.com/) &bigstar;
-* [Electric Power Research Institute](https://www.epri.com/)
 * [F5](https://www.f5.com/) &bigstar;
 * [IBM Security](www.ibm.com/) &bigstar;
 * [McAfee](www.mcafee.com/) &bigstar;
