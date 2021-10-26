@@ -20,7 +20,7 @@ PGB members include representatives of [OCA sponsor organizations](https://githu
 - Forrest Hare, [SAIC](https://www.saic.com/)
 - Duncan Sparrell, [sFractal](https://www.sfractal.com/)
 - Nigel Houghton, [ThreatQuotient](https://www.threatq.com/)
-- Stephen Wood, [Tripwire](https://www.tripwire.com/)
+- Lamar Bailey, [Tripwire](https://www.tripwire.com/)
 - Chris Murphy, [TruSTAR](https://www.trustar.co/)
 - Matthew Gardiner, [Rapid7](https://www.rapid7.com/)
 
