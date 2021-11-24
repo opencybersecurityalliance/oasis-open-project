@@ -21,7 +21,6 @@ OASIS Open and the OCA community thank the following organizations who generousl
 * [sFractal Consulting LLC](https://www.sfractal.com/) &bigstar;
 * [Tenable](https://www.tenable.com/)
 * [ThreatQuotient](https://www.threatq.com/) &bigstar;
-* [Tripwire](https://www.tripwire.com/) &bigstar;
 * [TruSTAR](https://www.trustar.co/) &bigstar;
 * [VMware](https://www.vmware.com/)
 
