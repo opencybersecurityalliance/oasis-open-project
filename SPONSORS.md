@@ -22,5 +22,6 @@ OASIS Open and the OCA community thank the following organizations who generousl
 * [Tenable](https://www.tenable.com/)
 * [ThreatQuotient](https://www.threatq.com/) &bigstar;
 * [TruSTAR](https://www.trustar.co/) &bigstar;
+* [Visua](https://visua.com/)
 * [VMware](https://www.vmware.com/)
 
