@@ -15,6 +15,7 @@ OASIS Open and the OCA community thank the following organizations who generousl
 * [IBM Security](www.ibm.com/) &bigstar;
 * [McAfee](www.mcafee.com/) &bigstar;
 * [New Context](https://www.newcontext.com/) &bigstar;
+* [Prophecy International](https://www.prophecyinternational.com/)
 * [Rapid7](https://www.rapid7.com/) &bigstar;
 * [SafeBreach](https://safebreach.com/) &bigstar;
 * [SAIC](http://www.saic.com/) &bigstar;
