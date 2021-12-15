@@ -15,7 +15,6 @@ PGB members include representatives of [OCA sponsor organizations](https://githu
 - Ciaran Bradley, [EclecticIQ](https://www.eclecticiq.com/)
 - Renuka Nadkarni, [F5](https://www.f5.com/)
 - Jason Keirstead, [IBM](https://www.ibm.com/security/)
-- Mark Mastrangeli, [McAfee](https://www.mcafee.com)
 - Kelly Cullinane, [New Context](http://newcontext.com/)
 - Valeriy Leykin, [Safebreach](https://safebreach.com/)
 - Forrest Hare, [SAIC](https://www.saic.com/)
