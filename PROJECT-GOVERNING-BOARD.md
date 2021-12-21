@@ -22,6 +22,7 @@ PGB members include representatives of [OCA sponsor organizations](https://githu
 - Nigel Houghton, [ThreatQuotient](https://www.threatq.com/)
 - Chris Murphy, [TruSTAR](https://www.trustar.co/)
 - Matthew Gardiner, [Rapid7](https://www.rapid7.com/)
+- Mark Mastrangeli, [Tenzir](https://tenzir.com/)
 
 If you are interested in being part of the OCA PGB or the TSC, contact communications@oasis-open.org.
 
