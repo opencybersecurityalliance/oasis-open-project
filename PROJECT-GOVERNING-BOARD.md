@@ -12,7 +12,6 @@ PGB members include representatives of [OCA sponsor organizations](https://githu
 - Vaughan Shanks, [Cydarm](https://www.cydarm.com/)
 - Avkash Kathiriya, [Cyware](https://cyware.com/)
 - Ciaran Bradley, [EclecticIQ](https://www.eclecticiq.com/)
-- Renuka Nadkarni, [F5](https://www.f5.com/)
 - Jason Keirstead, [IBM](https://www.ibm.com/security/)
 - Kelly Cullinane, [New Context](http://newcontext.com/)
 - Matthew Gardiner, [Rapid7](https://www.rapid7.com/)
