@@ -15,12 +15,12 @@ PGB members include representatives of [OCA sponsor organizations](https://githu
 - Avkash Kathiriya, [Cyware](https://cyware.com/)
 - Ciaran Bradley, [EclecticIQ](https://www.eclecticiq.com/)
 - Kelly Cullinane, [New Context](http://newcontext.com/)
+- Brad Thomas, [Prophecy International](https://www.prophecyinternational.com/)
 - Matthew Gardiner, [Rapid7](https://www.rapid7.com/)
 - Valeriy Leykin, [Safebreach](https://safebreach.com/)
 - Forrest Hare, [SAIC](https://www.saic.com/)
 - Duncan Sparrell, [sFractal](https://www.sfractal.com/)
 - Nigel Houghton, [ThreatQuotient](https://www.threatq.com/)
-- Chris Murphy, [TruSTAR](https://www.trustar.co/)
 - Franco de Bonis, [Visua](https://visua.com/)
 
 
