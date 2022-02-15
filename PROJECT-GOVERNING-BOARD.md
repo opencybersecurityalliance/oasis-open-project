@@ -7,7 +7,7 @@ The Project Governing Board (PGB) sets overall strategic direction for the OCA a
 PGB members include representatives of [OCA sponsor organizations](https://github.com/opencybersecurityalliance/oasis-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who represent the Technical Steering Committee (TSC): 
   
 - Jason Keirstead, [IBM](https://www.ibm.com/security/) - Co-chair
-- Mark Mastrangeli, [Tenzir](https://tenzir.com - Co-chair
+- Mark Mastrangeli, [Tenzir](https://tenzir.com) - Co-chair
 - Adam Montville, [Center for Internet Security](https://www.cisecurity.org/)
 - Lodrina Cherne, [Cybereason](http://www.cybereason.com/)
 - Fawad Khan, [CyberNB](https://cybernb.ca/)
