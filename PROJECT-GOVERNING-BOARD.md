@@ -10,7 +10,6 @@ PGB members include representatives of [OCA sponsor organizations](https://githu
 - Mark Mastrangeli, [Tenzir](https://tenzir.com) - Co-chair
 - Adam Montville, [Center for Internet Security](https://www.cisecurity.org/)
 - Lodrina Cherne, [Cybereason](http://www.cybereason.com/)
-- Fawad Khan, [CyberNB](https://cybernb.ca/)
 - Vaughan Shanks, [Cydarm](https://www.cydarm.com/)
 - Avkash Kathiriya, [Cyware](https://cyware.com/)
 - Ciaran Bradley, [EclecticIQ](https://www.eclecticiq.com/)
