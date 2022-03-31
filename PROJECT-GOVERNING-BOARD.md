@@ -4,7 +4,7 @@
 
 The Project Governing Board (PGB) sets overall strategic direction for the OCA and formally approves released work products. 
 
-PGB members include representatives of [OCA sponsor organizations](https://github.com/opencybersecurityalliance/oasis-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who represent the Technical Steering Committee (TSC).  
+PGB members include representatives of [OCA sponsor organizations](https://github.com/opencybersecurityalliance/oasis-open-project/blob/master/SPONSORS.md) and representatives from the community at-large who represent the Technical Steering Committee (TSC).  
 
 The members of the OCA Project Governing Board are listed at https://opencybersecurityalliance.github.io/oasis-open-project/
 
