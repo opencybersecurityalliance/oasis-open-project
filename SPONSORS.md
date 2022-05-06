@@ -10,11 +10,11 @@ OASIS Open and the OCA community thank the following organizations who generousl
 * [Cydarm](https://cydarm.com/) &bigstar;
 * [Cyware](https://cyware.com/) &bigstar;
 * [EclecticIQ](https://www.eclecticiq.com/) &bigstar;
-* [F5](https://www.f5.com/) &bigstar;
+* [F5](https://www.f5.com/)
 * [IBM Security](www.ibm.com/) &bigstar;
 * [McAfee](www.mcafee.com/) &bigstar;
 * [New Context](https://www.newcontext.com/) &bigstar;
-* [Prophecy International](https://www.prophecyinternational.com/)
+* [Prophecy International](https://www.prophecyinternational.com/)  &bigstar;
 * [Rapid7](https://www.rapid7.com/) &bigstar;
 * [SafeBreach](https://safebreach.com/) &bigstar;
 * [SAIC](http://www.saic.com/) &bigstar;
@@ -23,6 +23,6 @@ OASIS Open and the OCA community thank the following organizations who generousl
 * [Tenzir](https://tenzir.com/) &bigstar;
 * [ThreatQuotient](https://www.threatq.com/) &bigstar;
 * [TruSTAR](https://www.trustar.co/) &bigstar;
-* [Visua](https://visua.com/)
+* [Visua](https://visua.com/) &bigstar;
 * [VMware](https://www.vmware.com/) 
 
