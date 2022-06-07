@@ -6,6 +6,7 @@ OASIS Open and the OCA community thank the following organizations who generousl
 
 
 * [Center for Internet Security](https://www.cisecurity.org/) &bigstar;
+* [Copado](https://www.copado.com/)
 * [Cybereason](https://www.cybereason.com/) &bigstar;
 * [Cydarm](https://cydarm.com/) &bigstar;
 * [Cyware](https://cyware.com/) &bigstar;
@@ -13,7 +14,6 @@ OASIS Open and the OCA community thank the following organizations who generousl
 * [F5](https://www.f5.com/)
 * [IBM Security](https://www.ibm.com/security) &bigstar;
 * [McAfee]([www.mcafee.com/](https://www.mcafee.com/)) &bigstar;
-* [New Context](https://www.newcontext.com/) &bigstar;
 * [Prophecy International](https://www.prophecyinternational.com/)  &bigstar;
 * [Rapid7](https://www.rapid7.com/) &bigstar;
 * [SafeBreach](https://safebreach.com/) &bigstar;
