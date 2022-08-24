@@ -16,7 +16,6 @@ OASIS Open and the OCA community thank the following organizations who generousl
 * [McAfee]([www.mcafee.com/](https://www.mcafee.com/)) &bigstar;
 * [Prophecy International](https://www.prophecyinternational.com/)  &bigstar;
 * [Rapid7](https://www.rapid7.com/) &bigstar;
-* [SafeBreach](https://safebreach.com/) &bigstar;
 * [SAIC](http://www.saic.com/) &bigstar;
 * [sFractal Consulting LLC](https://www.sfractal.com/) &bigstar;
 * [Tenable](https://www.tenable.com/)
