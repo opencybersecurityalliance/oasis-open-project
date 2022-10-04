@@ -12,5 +12,6 @@ The following maintainers and OCA members constitute the new TSC for the 2022 ca
 * David Lemire (HII) - Maintainer, PACE
 * Matthias Vallentin (Tenzir)
 * Danny Elliot (IBM) - Maintainer, STIX Shifter
+* Charles Frick (JHU) - Maintainer, IoB
 * Mark Mastrangeli (Tenzir), PGB Rep
 * Duncan Sparrell (sFractal), PGB Rep 
