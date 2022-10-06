@@ -6,7 +6,6 @@ OASIS Open and the OCA community thank the following organizations who generousl
 
 
 * [Center for Internet Security](https://www.cisecurity.org/) &bigstar;
-* [Copado](https://www.copado.com/)
 * [Cybereason](https://www.cybereason.com/) &bigstar;
 * [Cydarm](https://cydarm.com/) &bigstar;
 * [Cyware](https://cyware.com/) &bigstar;
