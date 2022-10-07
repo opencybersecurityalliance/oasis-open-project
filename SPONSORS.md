@@ -12,12 +12,10 @@ OASIS Open and the OCA community thank the following organizations who generousl
 * [EclecticIQ](https://www.eclecticiq.com/) &bigstar;
 * [F5](https://www.f5.com/)
 * [IBM Security](https://www.ibm.com/security) &bigstar;
-* [McAfee]([www.mcafee.com/](https://www.mcafee.com/)) &bigstar;
 * [Prophecy International](https://www.prophecyinternational.com/)  &bigstar;
 * [Rapid7](https://www.rapid7.com/) &bigstar;
 * [SAIC](http://www.saic.com/) &bigstar;
 * [sFractal Consulting LLC](https://www.sfractal.com/) &bigstar;
-* [Tenable](https://www.tenable.com/)
 * [Tenzir](https://tenzir.com/) &bigstar;
 * [Visua](https://visua.com/) &bigstar;
 * [VMware](https://www.vmware.com/) 
