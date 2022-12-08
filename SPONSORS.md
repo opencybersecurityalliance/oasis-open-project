@@ -17,6 +17,5 @@ OASIS Open and the OCA community thank the following organizations who generousl
 * [SAIC](http://www.saic.com/) &bigstar;
 * [sFractal Consulting LLC](https://www.sfractal.com/) &bigstar;
 * [Tenzir](https://tenzir.com/) &bigstar;
-* [Visua](https://visua.com/) &bigstar;
 * [VMware](https://www.vmware.com/) 
 
