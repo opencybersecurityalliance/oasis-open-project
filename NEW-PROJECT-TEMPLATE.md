@@ -37,6 +37,8 @@ _Python, Go, Rust, JSON, YAML...._
 
 _Links to any significant dependancy technologies. You *do not* have to link to every library a project depends on, only major ones._
 
+_Dependancy technologies should normally be available under an open-source license that is compatible with the proposed license of the project. If you need help in validating this compatibility, we are happy to assist you. If a dependancy technology is not open-source, please explain in detail how this will be mitigated for project consumers and collaborators.
+
 # Project Management & Governance
 
 ## Primary Project Sponsor(s)
