@@ -5,6 +5,7 @@
 OASIS Open and the OCA community thank the following organizations who generously support the work, funding the development of the interoperability standards and open source tools that their organizations and customers depend on. Starred organizations have taken the additional step of signing the enterprise contributor license agreement and seating a representative on the Project Governing Board.
 
 
+* [Canadian Institute for Cybersecurity](https://www.unb.ca/cic/)
 * [Center for Internet Security](https://www.cisecurity.org/) &bigstar;
 * [Cydarm](https://cydarm.com/) &bigstar;
 * [Cyware](https://cyware.com/) &bigstar;
@@ -14,6 +15,5 @@ OASIS Open and the OCA community thank the following organizations who generousl
 * [Rapid7](https://www.rapid7.com/) &bigstar;
 * [SAIC](http://www.saic.com/) &bigstar;
 * [sFractal Consulting LLC](https://www.sfractal.com/) &bigstar;
-* [Tenzir](https://tenzir.com/) &bigstar;
 * [VMware](https://www.vmware.com/) 
 
