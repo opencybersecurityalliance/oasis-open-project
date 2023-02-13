@@ -14,6 +14,7 @@ OASIS Open and the OCA community thank the following organizations who generousl
 * [Prophecy International](https://www.prophecyinternational.com/)  &bigstar;
 * [Rapid7](https://www.rapid7.com/) &bigstar;
 * [SAIC](http://www.saic.com/) &bigstar;
+* [Sekoia](https://www.sekoia.io/en/homepage/)
 * [sFractal Consulting LLC](https://www.sfractal.com/) &bigstar;
 * Verily IT &bigstar;
 * [VMware](https://www.vmware.com/) 
