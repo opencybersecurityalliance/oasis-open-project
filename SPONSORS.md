@@ -12,8 +12,6 @@ OASIS Open and the OCA community thank the following organizations who generousl
 * [EclecticIQ](https://www.eclecticiq.com/) &bigstar;
 * [IBM Security](https://www.ibm.com/security) &bigstar;
 * [Prophecy International](https://www.prophecyinternational.com/)  &bigstar;
-* [Rapid7](https://www.rapid7.com/) &bigstar;
-* [SAIC](http://www.saic.com/) &bigstar;
 * [Sekoia](https://www.sekoia.io/en/homepage/)
 * [sFractal Consulting LLC](https://www.sfractal.com/) &bigstar;
 * [thatDot](https://www.thatdot.com/)
