@@ -8,9 +8,11 @@ The TSC directs the day-to-day technical activities of the project. If you are i
 The following maintainers and OCA members constitute the new TSC for the 2022/23 calendar year:
 
 * Xiaokui Shu (IBM) Maintainer, Kestrel, TSC Chair
+* Charles Frick (Johns Hopkins University Applied Physics Laboratory), Maintainer, IOB
+* David Bizeul (SEKOIA.IO) – Maintainer, OXA
 * David Lemire (HII) - Maintainer, PACE
 * Danny Elliot (IBM) - Maintainer, STIX Shifter
-* Mark Mastrangeli (Verily-IT), PGB Rep
 * Duncan Sparrell (sFractal), PGB Rep 
-* Charles Frick (Johns Hopkins University Applied Physics Laboratory), Maintainer, IOB
+* Mark Mastrangeli (Verily-IT), PGB Rep
+
 
