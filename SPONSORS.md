@@ -17,5 +17,4 @@ OASIS Open and the OCA community thank the following organizations who generousl
 * [sFractal Consulting LLC](https://www.sfractal.com/) &bigstar;
 * [thatDot](https://www.thatdot.com/)
 * [Verily IT](https://verily-it.com/) &bigstar;
-* [VMware](https://www.vmware.com/) 
 
