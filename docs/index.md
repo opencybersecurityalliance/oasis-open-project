@@ -6,7 +6,7 @@
 
 <p>PGB members include representatives of <a href="https://github.com/opencybersecurityalliance/oasis-open-project/blob/master/SPONSORS.md">OCA sponsor organizations</a> and representatives from the community at-large who represent the Technical Steering Committee (TSC): 
 
-<p><i>PGB Co-Chair</i>: Mark Mastrangeli</p>
+<p><i>PGB Co-Chairs</i>: Jason Keirstead, Mark Mastrangeli</p>
 
 <p>PGB members:</p>
 
