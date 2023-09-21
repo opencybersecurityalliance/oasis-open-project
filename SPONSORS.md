@@ -13,7 +13,7 @@ OASIS Open and the OCA community thank the following organizations who generousl
 * [Cyware](https://cyware.com/) &bigstar;
 * [IBM Security](https://www.ibm.com/security) &bigstar;
 * [Prophecy International](https://www.prophecyinternational.com/)  &bigstar;
-* [Sekoia](https://www.sekoia.io/en/homepage/)
+* [Sekoia](https://www.sekoia.io/en/homepage/) &bigstar;
 * [sFractal Consulting LLC](https://www.sfractal.com/) &bigstar;
 * [thatDot](https://www.thatdot.com/)
 * [Verily IT](https://verily-it.com/) &bigstar;
