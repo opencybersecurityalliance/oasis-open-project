@@ -2,6 +2,8 @@
 
 # OCA new project application
 
+The OCA PGB welcomes suggestions for new subprojects. To submit your idea, please complete the template below and email it as an attachment to [the OCA PGB mailing list](mailto:	oca-pgb@lists.oasis-open-projects.org).
+
 ## Base Information
 
 ### Project Name
