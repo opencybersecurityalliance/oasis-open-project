@@ -49,7 +49,7 @@ _Dependancy technologies should normally be available under an open-source licen
 
 ### Primary Project Sponsor(s)
 
-_The project should have at least one sponsor that is either be an OCA sponsor and PGB member, or a prospective sponsor/member._
+_The project should have at least one sponsor that may either be an existing OCA sponsor or a prospective sponsor._
 
 ### How will this project be resourced on an ongoing basis?
 
