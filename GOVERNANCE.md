@@ -21,6 +21,8 @@ The OCA is overseen by the following committees:
 
 * **Technical Steering Committee (TSC)**: Group responsible for the overall technical health and direction of the project; final reviewers of PRs, responsible for releases, responsible for overseeing work of Maintainers and community leaders.
 
+The PGB also follows and is responsible for upholding the OASIS Open Projects Rules, and any Standing Rules it adopts.
+
 A list of current TSC and PGB members can found at [https://opencybersecurityalliance.org/governance](https://opencybersecurityalliance.org/governance/).
 
 ## Community Roles
