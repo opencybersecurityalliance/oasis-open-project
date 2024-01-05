@@ -2,7 +2,7 @@
 
 We adopt the following standing rules, as allowed under Oasis Open Project Rule 5.7.
 
-## Standing Rule 2023-01
+## Standing Rule 2024-01
 
 Adopted by the OCA Project Governing Board 5 January 2024.
 
@@ -10,7 +10,7 @@ Resolved: The Open Cybersecurity Alliance (OCA) Project Governing Board adopts [
 Voting Members of the PGB who are absent from three consecutive meetings of the PGB (as recorded in the minutes) lose their voting rights, whether for e-ballot or in a PGB meeting, at the end of the third meeting missed and will not be counted towards quorum in a PGB meeting. However, they shall retain all other rights, privileges, and obligations afforded to PGB members.
 A Member who has lost voting rights by missing three meetings may regain voting rights by (a) declaring to the Chair their desire to regain voting rights and then (b) attending two consecutive meetings of the PGB.  Their rights will be restored at the end of the second meeting.
 
-## Standing Rule 2023-02
+## Standing Rule 2024-02
 
 Adopted by the Project Governing Board 5 January 2024.
 
@@ -19,7 +19,7 @@ Any Member of the PGB who wishes to participate in the work of the committee but
 A Persistent Non-Voting Member may regain voting rights by (a) declaring to the Chair their desire to regain voting rights and then (b) attending two consecutive meetings of the PGB. The Member shall also then count towards quorum of PGB meetings.
 
 
-## Standing Rule 2023-03
+## Standing Rule 2024-03
 
 Adopted by the Project Governing Board 5 January 2024.
 
