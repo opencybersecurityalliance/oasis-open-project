@@ -6,7 +6,6 @@ OASIS Open and the OCA community thank the following organizations who generousl
 
 
 * [Analyst1](https://analyst1.com/) &bigstar;
-* [Canadian Institute for Cybersecurity](https://www.unb.ca/cic/)
 * [Center for Internet Security](https://www.cisecurity.org/) &bigstar;
 * [Cydarm](https://cydarm.com/) &bigstar;
 * [CYENTIFIC](https://cyentific.eu/) &bigstar;
@@ -17,5 +16,4 @@ OASIS Open and the OCA community thank the following organizations who generousl
 * [sFractal Consulting LLC](https://www.sfractal.com/) &bigstar;
 * [thatDot](https://www.thatdot.com/)
 * [TNO](https://www.tno.nl/nl/)
-* [Verily IT](https://verily-it.com/) &bigstar;
 
