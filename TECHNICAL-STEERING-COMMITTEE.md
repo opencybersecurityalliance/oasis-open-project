@@ -11,8 +11,9 @@ The following maintainers and OCA members constitute the new TSC for the 2022/23
 * Charles Frick (Johns Hopkins University Applied Physics Laboratory), Maintainer, IOB
 * David Bizeul (SEKOIA.IO) – Maintainer, OXA
 * David Lemire (HII) - Maintainer, PACE
-* Danny Elliot (IBM) - Maintainer, STIX Shifter
+* Md Azam (IBM) - Maintainer, STIX Shifter
 * Duncan Sparrell (sFractal), PGB Rep 
 * Mark Mastrangeli (Verily-IT), PGB Rep
+* Mateuzs Zych, (University of Oslo) – CACAO Roaster
 
 
