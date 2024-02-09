@@ -13,7 +13,6 @@ The following maintainers and OCA members constitute the new TSC for the 2024 ca
 * David Lemire (HII) - Maintainer, PACE
 * Md Azam (IBM) - Maintainer, STIX Shifter
 * Duncan Sparrell (sFractal), PGB Rep 
-* Mark Mastrangeli (Verily-IT), PGB Rep
 * Mateuzs Zych, (University of Oslo) – CACAO Roaster
 
 
