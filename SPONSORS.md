@@ -14,6 +14,5 @@ OASIS Open and the OCA community thank the following organizations who generousl
 * [Prophecy International](https://www.prophecyinternational.com/)  &bigstar;
 * [Sekoia](https://www.sekoia.io/en/homepage/) &bigstar;
 * [sFractal Consulting LLC](https://www.sfractal.com/) &bigstar;
-* [thatDot](https://www.thatdot.com/)
 * [TNO](https://www.tno.nl/nl/) &bigstar;
 
