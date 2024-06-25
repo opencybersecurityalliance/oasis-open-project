@@ -1,6 +1,6 @@
 # OCA Project Governing Board Meeting -- DRAFT
 
-## Date: 16 June 2024
+## Date: 13 June 2024
 
 **Present:** Rich Telljohann (IBM), Jason Keirstead (Cyware), Duncan Sparrell (sFractal), Vaughn Shanks (Cydarm)
 
