@@ -1,4 +1,4 @@
-# OCA Project Governing Board Meeting -- DRAFT
+# OCA Project Governing Board Meeting 
 
 ## Date: 13 June 2024
 
