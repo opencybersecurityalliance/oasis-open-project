@@ -5,7 +5,6 @@
 OASIS Open and the OCA community thank the following organizations who generously support the work, funding the development of the interoperability standards and open source tools that their organizations and customers depend on. Starred organizations have taken the additional step of signing the enterprise contributor license agreement and seating a representative on the Project Governing Board.
 
 
-* [Analyst1](https://analyst1.com/) &bigstar;
 * [Center for Internet Security](https://www.cisecurity.org/) &bigstar;
 * [Cydarm](https://cydarm.com/) &bigstar;
 * [CYENTIFIC](https://cyentific.eu/) &bigstar;
