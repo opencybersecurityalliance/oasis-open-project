@@ -11,7 +11,7 @@ The following maintainers and OCA members constitute the new TSC for the 2024 ca
 * Charles Frick (Johns Hopkins University Applied Physics Laboratory), Maintainer, IOB
 * David Bizeul (SEKOIA.IO) – Maintainer, OXA
 * David Lemire (HII) - Maintainer, PACE
-* Md Azam (IBM) - Maintainer, STIX Shifter
+* Derek Rushton (IBM) - Maintainer, STIX Shifter
 * Duncan Sparrell (sFractal), PGB Rep 
 * Mateuzs Zych, (University of Oslo) – CACAO Roaster
 
