@@ -13,6 +13,7 @@ The following maintainers and OCA members constitute the new TSC for the 2024 ca
 * David Lemire (HII) - Maintainer, PACE
 * Derek Rushton (IBM) - Maintainer, STIX Shifter
 * Duncan Sparrell (sFractal), PGB Rep 
-* Mateuzs Zych, (University of Oslo) – CACAO Roaster
+* Mateuzs Zych, (University of Oslo) – Maintainer, CACAO Roaster
+* Patrick Maroney (AT&T) – Maintainer, Cloud-based Interoperability Village
 
 
