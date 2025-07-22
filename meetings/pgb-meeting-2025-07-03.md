@@ -1,4 +1,4 @@
-# OCA PGB meeting, 3 July 2025 -- DRAFT
+# OCA PGB meeting, 3 July 2025
 
 **Present:** Duncan Sparrell (SFractal), Gershon Janssen (OASIS Board Chair and President), Claudia Rauch (OASIS), Sachin Jade (Cyware), Vasileios Mavroeidis (CYENTIFC), Vaughan Shanks (Cydarm \- joined 30 min. in)
 
@@ -11,7 +11,7 @@
 * **PGB Membership and Sustainability Concerns**  
   * The group discussed the sustainability of the PGB project, with Duncan raising concerns about maintaining sufficient membership and financial support. Gershon acknowledged that while there are active subprojects, the organization doesn't have a strict minimum threshold for membership, but rather considers factors like energy levels and affordability.  
   * The discussion revealed that some active members, including Jason and Vaughan, may be planning not to renew their sponsorship, leading to questions about the project's future viability.  
-  * Claudia highlighted that the project currently has seven active sponsors but noted that one sponsor is likely to drop soon. She stressed the importance of having more than one sponsor and strong leadership to keep the project alive. Duncan emphasized that the project's relevance and interest cannot only be determined by the number of active contributors.  
+  * Claudia highlighted that the project currently has seven active sponsors but noted that one sponsor is likely to drop soon. She stressed the importance of having more than one sponsor and strong leadership to keep the project alive.     Duncan emphasized that the project's relevance and interest cannot only be determined by the number and size of the sponsors, but also should consider active contributors but most importantly the number of people attending and participating even if they don’t make formal contributions. 
   * Duncan and Claudia discussed the status of open source projects under OCA, with Duncan highlighting that while some projects like CASP are active, others like Pace have no contributions. Claudia acknowledged that while some projects like CASP and IOB are thriving, others like Kestrel and STIX-Shifter have become a lot less active after losing their original sponsors.   
   * Gershon noted that the discussion should focus on the overall sustainability of the projects rather than just contribution levels, and mentioned that Vaughn and Jason had previously raised concerns about project activity.  
   * Duncan emphasized the need to distinguish between revenue and contributions, while Gershon suggested considering new models for projects that are worth preserving. Vasileios proposed integrating these projects more closely with technical committees and highlighted the importance of strategic leadership in driving project development.  
