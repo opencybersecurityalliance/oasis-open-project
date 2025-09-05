@@ -1,6 +1,6 @@
 # OCA PGB meeting -- DRAFT
 
-## Date: 5 September 2025
+## Date: 4 September 2025
 
 **Present:** Duncan Sparrell (SFractal), Claudia Rauch (OASIS), Vasileios Mavroeidis (CYENTIFC), Vaughan Shanks (Cydarm), Kelly Cullinane (OASIS)
 
