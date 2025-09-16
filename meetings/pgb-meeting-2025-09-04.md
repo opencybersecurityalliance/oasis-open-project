@@ -1,4 +1,4 @@
-# OCA PGB meeting -- DRAFT
+# OCA PGB meeting
 
 ## Date: 4 September 2025
 
