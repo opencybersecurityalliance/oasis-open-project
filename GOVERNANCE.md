@@ -9,15 +9,15 @@ This document defines the Open Cybersecurity Alliance (OCA) community governance
 
 Open Cybersecurity Alliance (OCA), an OASIS Open Project, is committed to building an open, inclusive, productive and self-governing open source community. The community is governed by this document and in accordance with [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process) with the goal of defining how community should work together to achieve their goals.
 
-## Code Repositories
+## Repositories
 
-This document applies to all code repositories under the Opencybersecurity Alliance github organization that resides at [https://github.com/opencybersecurityalliance](https://github.com/opencybersecurityalliance).
+This document applies to all repositories under the Opencybersecurity Alliance github organization that resides at [https://github.com/opencybersecurityalliance](https://github.com/opencybersecurityalliance).
 
 
 ## Project Leadership
 The OCA is overseen by the following committees:
 
-* **Project Governing Board (PGB)**: Group responsible for the overall lifecycle or business strategy of the project. Oversees activities such as events, marketing, partnerships, promotion, budget, and so forth. 
+* **Project Governing Board (PGB)**: Group responsible for the overall lifecycle or business strategy of the project. Oversees activities such as events, marketing, partnerships, promotion, budget, and so forth.
 
 * **Technical Steering Committee (TSC)**: Group responsible for the overall technical health and direction of the project; final reviewers of PRs, responsible for releases, responsible for overseeing work of Maintainers and community leaders.
 
@@ -68,7 +68,7 @@ For most decisons, the TSC operates by [lazy consensus](https://community.apache
 * Acceptance or rejection of specific defects, feature requests, user stories
 * Merging of pull requests
 
-Decisons on the following items must be made based on a [Simple Majority Vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dSimpleMajority) 
+Decisons on the following items must be made based on a [Simple Majority Vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dSimpleMajority)
 * Tagging / releasing of a new *major version* of a project
 * Recommending work to the PGB for promotion to the standards track
 * Appointment of new Maintainers
