@@ -17,7 +17,7 @@ This document applies to all code repositories under the Opencybersecurity Allia
 ## Project Leadership
 The OCA is overseen by the following committees:
 
-* **Project Governing Board (PGB)**: Group responsible for the overall lifecycle or business strategy of the project. Oversees activities such as events, marketing, partnerships, promotion, budget, and so forth. 
+* **Project Governing Board (PGB)**: Group responsible for the overall lifecycle or business strategy of the project. Oversees activities such as events, marketing, partnerships, promotion, budget, and so forth.
 
 * **Technical Steering Committee (TSC)**: Group responsible for the overall technical health and direction of the project; final reviewers of PRs, responsible for releases, responsible for overseeing work of Maintainers and community leaders.
 
@@ -29,9 +29,9 @@ A list of current TSC and PGB members can found at [https://opencybersecurityall
 
 In addition to the project leadership, important roles may be filled by community members:
 
-**Contributors:** A Contributor is someone who has agreed to the Contributor License Agreement (CLA) and who makes regular contributions to one or more OCA projects (including but not limited to activities such as documentation, code reviews, responding to issues, participation in proposal discussions, contributing code, etc.). Any person (whether or not an OASIS member or OCA sponsor) may participate in the OCA as a Contributor. The role of contributor is furthermore defined in the [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process#participants-contributors).
+**Contributors:** A Contributor is someone who has agreed to the Contributor License Agreement (CLA) and who makes regular contributions to one or more OCA subprojects (including but not limited to activities such as documentation, code reviews, responding to issues, participation in proposal discussions, contributing code, etc.). Any person (whether or not an OASIS member or OCA sponsor) may participate in the OCA as a Contributor. The role of contributor is furthermore defined in the [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process#participants-contributors).
 
-**Maintainers**: A Maintainer is someone who has agreed to the Contributor License Agreement (CLA) and has been selected by the TSC to oversee one or more components of an OCA project, review code and pull requests, prepare releases, triage issues, and similar tasks. Maintainers and their requisite duties are managed by the TSC. Any person (whether or not an OASIS member or OCA sponsor) may be appointed as a project Maintainer. The role of Maintainer is furthermore defined in the [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process#chairs-maintainers-technical-steering-committees-opMaintainers).
+**Maintainers**: A Maintainer is someone who has agreed to the Contributor License Agreement (CLA) and has been selected by the TSC to oversee one or more components of an OCA subproject, review code and pull requests, prepare releases, triage issues, and similar tasks. Maintainers and their requisite duties are managed by the TSC. Any person (whether or not an OASIS member or OCA sponsor) may be appointed as a subproject Maintainer. The role of Maintainer is furthermore defined in the [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process#chairs-maintainers-technical-steering-committees-opMaintainers).
 
 ## Project Governing Board
 
@@ -45,7 +45,7 @@ For most decisions, the PGB operates by [lazy consensus](https://community.apach
 
 * Any action or decision that may bind the OCA to committments or obligations with any external party or entity, including but not limited to legal, financial, or intellectual property related commitments or obligations
 * Promoting work to an OASIS standards track
-* Starting or consuming a new project into the OCA
+* Starting or consuming a new subproject into the OCA
 * Endorsements, partnerships, or liasions with other groups
 * Substantive changes to the Governance policies or documents
 * The TSC recall procedure
@@ -63,13 +63,13 @@ The TSC must at all times have a chair or two co-chairs. The TSC chair or co-cha
 PGB members are permitted to fully participate in the TSC if they so choose, but their presence in meetings shall not affect quorm calculations for meetings or ballots. At their own discretion, they may participate in all TSC discussions and decisions, including but not limited to casting votes on any balloted measures.
 
 For most decisons, the TSC operates by [lazy consensus](https://community.apache.org/committers/lazyConsensus.html). The TSC may, at its own discretion, delegate authority on minor technical decisions to Maintainers in the community, including but not limited to:
-* Tagging of *minor versions* of a project
+* Tagging of *minor versions* of a subproject
 * Creation and merging/removal of feature branches
 * Acceptance or rejection of specific defects, feature requests, user stories
 * Merging of pull requests
 
-Decisons on the following items must be made based on a [Simple Majority Vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dSimpleMajority) 
-* Tagging / releasing of a new *major version* of a project
+Decisons on the following items must be made based on a [Simple Majority Vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dSimpleMajority)
+* Tagging / releasing of a new *major version* of a subproject
 * Recommending work to the PGB for promotion to the standards track
 * Appointment of new Maintainers
 
@@ -79,7 +79,7 @@ Any community member may submit a request for recall of a TSC member to the PGB 
 
 ## Incubation Process
 
-At this time, new projects may be accepted into the OCA at the sole discretion of the PGB.
+At this time, new subprojects may be accepted into the OCA at the sole discretion of the PGB.
 
 ## Updating Governance
 
