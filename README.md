@@ -1,3 +1,5 @@
+**The Open Cybersecurity Alliance OASIS Open Project was sunsetted on March 31, 2026. OCA has transitioned to a different, community-led format under the ownership and governance of OASIS Open. Please see [here](https://github.com/opencybersecurityalliance/oca-community-project) for further information on the new format and governance of the OCA Commmunity.**
+
 <img src="/OCA-1.png" width="200">
 
 # Open Cybersecurity Alliance (OCA)
