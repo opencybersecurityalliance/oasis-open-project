@@ -1,4 +1,4 @@
-# Open Cybersecurity Alliance Community Governance -- DRAFT
+# Open Cybersecurity Alliance Community Governance 
 
 ## 1\. Purpose
 
